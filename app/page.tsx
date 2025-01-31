@@ -57,7 +57,7 @@ export default function Home() {
           <ul className="list-disc inline-block text-left text-cyan-100">
             <li>12 unique designs based on the Japanese Zodiac</li>
             <li>Hand-crafted digital art</li>
-            <li>Limited edition of 1000 pieces per design</li>
+            <li>Limited edition of 10 pieces per design</li>
             <li>Stored on the Ethereum blockchain</li>
           </ul>
         </section>
